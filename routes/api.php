@@ -3,6 +3,12 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
+//import controller
+use \dist\index;
+use \dist\contact;
+use \dist\about;
+use \dist\portfolio;
+
 /*
 |--------------------------------------------------------------------------
 | API Routes
